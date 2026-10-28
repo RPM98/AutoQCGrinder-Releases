@@ -1,1 +1,1 @@
-# AutoQCGrinder Releases`n`nThis repository contains published release assets only.
+# AutoQCGrinder Releases. This repository contains published release assets only.
